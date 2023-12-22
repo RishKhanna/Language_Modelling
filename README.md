@@ -1,4 +1,4 @@
-# INLP Assignment-1 Submission
+# Language Modelling
 
 ## System Requirements
 - `Python 3.9` is reqiured to run the code, other versions of `python` do not work due to changes in the `pickle` module over time.
